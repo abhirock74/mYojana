@@ -7,7 +7,7 @@ from frappe.utils import today
 import random
 import string
 from frappe.tests.utils import FrappeTestCase
-from myojana.tests.utils import create_random_doc , get_random_mobile_number , generate_random_indian_name
+from sva_unittest.tests.utils import create_random_doc , get_random_mobile_number , generate_random_indian_name
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
 BLUE = "\033[94m"
